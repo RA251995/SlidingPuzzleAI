@@ -10,3 +10,4 @@ Sliding Puzzle Solver Using BFS, DFS and A* Algorithms
 ### Example:
   ```python SlidingPuzzle.py dfs 6,1,8,4,0,2,7,3,5 ```
   
+Tested using *Python 3.6.0*
